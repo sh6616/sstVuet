@@ -1,0 +1,2 @@
+webpackJsonp([6],{kkAj:function(e,n){},nKbR:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"FaceSearching"},[this._v("\n  FaceSearching\n")])},staticRenderFns:[]};var c=t("VU/8")({name:"FaceSearching",data:function(){return{msg:""}}},a,!1,function(e){t("kkAj")},"data-v-4f0dc493",null);n.default=c.exports}});
+//# sourceMappingURL=6.7a535f7448572e7f22ee.js.map

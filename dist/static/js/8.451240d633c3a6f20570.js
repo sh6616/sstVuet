@@ -1,0 +1,2 @@
+webpackJsonp([8],{BESH:function(e,n){},jLp7:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"FaceRecognition"},[this._v("\n  FaceRecognition\n")])},staticRenderFns:[]};var i=t("VU/8")({name:"FaceRecognition",data:function(){return{msg:""}}},a,!1,function(e){t("BESH")},"data-v-2d3eaedf",null);n.default=i.exports}});
+//# sourceMappingURL=8.451240d633c3a6f20570.js.map

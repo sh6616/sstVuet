@@ -1,0 +1,27 @@
+// 后台框架尺寸
+// 菜单宽度
+$navMenu: 15%;
+$navMenuMin: 5%;
+$headMenu: (100-$navMenu);
+$headMenuMin: (100-$navMenuMin);
+$mainMenu: (100-$navMenu);
+$mainMenuMin: (100-$navMenuMin);
+
+@mixin webkit($type, $value){
+  -webkit-#{$type}: $value;
+  -moz-#{$type}: $value;
+  -o-#{$type}: $value;
+  -ms-#{$type}: $value;
+  #{$type}: $value;
+}
+@mixin labelDom($align, $width, $line-height: "normal"){
+  label {
+    float: left;
+    width: $width + px;
+    text-align: $align;
+    line-height: $line-height + px;
+  }
+  .warp-content {
+      margin-left: $width + px;
+  }
+}
