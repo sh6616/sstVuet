@@ -4,7 +4,7 @@
       <div id="LogoImg">
         <img src="../../../assets/logo.png" />
       </div>
-      <h1 id="title">大为税务人脸管理系统</h1>
+      <h1 id="title">税务人脸管理系统</h1>
     </div>
     <el-menu
       :default-active="this.$route.fullPath"

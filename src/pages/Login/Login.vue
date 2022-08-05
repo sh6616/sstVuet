@@ -5,7 +5,7 @@
         <!-- 左边 后台动能介绍 开始-->
         <el-col :span="10">
           <div class="grid-content GridLf">
-            <h3>欢迎使用大为税务人脸后台管理系统</h3>
+            <h3>欢迎使用税务人脸后台管理系统</h3>
             <ul>
               <li>
                 <svg
